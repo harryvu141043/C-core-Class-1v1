@@ -9,7 +9,6 @@ void nhap(int a[], int n)
 }
 
 
-
 int main(){
 	int n;
 	printf("nhap n = ");
